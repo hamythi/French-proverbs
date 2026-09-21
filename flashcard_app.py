@@ -14,7 +14,10 @@ flashcards = [
     "By": "Pierre", "date": "9/20/2026"},
     {"proverb": "Le monde est beau avant d'être vrai", 
      "anglais": "The world is beautiful before it is true",
-    "By": "Whyte", "date": "9/20/2026"}
+    "By": "Whyte", "date": "9/20/2026"},
+    {"proverb": "C'est dans le connaissance des conditions véritables de notre vie qu'il nous faut puiser la force de vivre et des raisons d'agir", 
+     "anglais": "You find your inner strength and motivation by facing the real fatcs of your life",
+    "By": "de Beauvoir", "date": "9/20/2026"}
 ]
 
 st.title("Francaise Flashcards 🗂️")
