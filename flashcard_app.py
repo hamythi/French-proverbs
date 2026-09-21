@@ -24,7 +24,7 @@ if st.session_state.card_index < len(flashcards):
         
         # Simple toggle to simulate flipping a card over
         if st.button("👁️ Reveal translation"):
-            st.info(current_card["anglais"], current_card["By"], current_card["date"])
+            st.info(current_card["anglais"])
             
     # Decision Buttons mimicking a Left/Right swipe
     col1, col2 = st.columns(2)
