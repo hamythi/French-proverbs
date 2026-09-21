@@ -8,7 +8,13 @@ if "card_index" not in st.session_state:
 flashcards = [
     {"proverb": "À chaque instant de notre vie, nous avons une main sur la porte de l'avenir", 
      "anglais": "At every moment of our life, we have a hand on the door of the future",
-    "By": "Maeterlinck", "date": "9/20/2026"}
+    "By": "Maeterlinck", "date": "9/20/2026"},
+    {"proverb": "Un sourire coûte moins cher que l'électricité, mais donne autant de lumière", 
+     "anglais": "A smile costs less than electricity but gives just as much light",
+    "By": "Pierre", "date": "9/20/2026"},
+    {"proverb": "Le monde est beau avant d'être vrai", 
+     "anglais": "The world is beautiful before it is true",
+    "By": "Whyte", "date": "9/20/2026"}
 ]
 
 st.title("Francaise Flashcards 🗂️")
